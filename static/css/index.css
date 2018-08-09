@@ -1,0 +1,13 @@
+body, html {
+  margin: 0;
+  padding: 20px; }
+
+#dottedPath {
+  stroke: #a5a5a5; }
+
+#solidPath {
+  stroke: #212121; }
+
+.circle {
+  stroke: #212121;
+  fill: #fff; }
